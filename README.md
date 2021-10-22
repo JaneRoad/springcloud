@@ -14,7 +14,6 @@
  > 远程配置
 - 服务跟踪Zipkin
 
-更多详细的学习笔记欢迎访问我的博客http://www.lujiannan.top/
-或者我在开源中国的博客https://my.oschina.net/u/4248053/blog/3230990
+更多详细的学习笔记欢迎访问我的博客https://blog.csdn.net/ChrisLu777
 
 喜欢就点个星星吧 感谢
